@@ -1,0 +1,334 @@
+1 segundoYa voy a trabajar con ustedes este
+0:1313 segundosya no está tan caliente, ¿no? A ver, buenas. Vamos a empezar, señores,
+0:2121 segundoshablando de la problemática. Yo siempre cuando hacemos software me gusta hacer muy gráfico, me gusta eh que me
+0:2929 segundosentiendan eh las personas y qué es lo que queremos hacer, hacia dónde queremos apuntar y bueno, esa es la idea de lo
+0:3939 segundosdel día de hoy. Ya. Entonces, yo voy a empezar explicando una problemática que tenemos actualmente. ¿Cuál es el
+0:4747 segundosproblema, señores? el tema de vamos a empezar trabajando el tema de seguridad, ¿ya?
+0:5959 segundosEntonces, yo por ejemplo, personalmente considero que,
+1:071 minuto y 7 segundosa ver, yo les voy a quiero que vean cómo yo veo la situación. Ya. A ver, primero desde el punto de vista logístico,
+1:161 minuto y 16 segundosyo veo que, bueno, eh, como somos una universidad, ¿no es cierto? Eh, yo pienso que bueno, no tengo el mapa de
+1:231 minuto y 23 segundosprocesos, pero yo pienso que la universidad debe tener aquí algunos procesos, tres procesos transversales,
+1:311 minuto y 31 segundosque es el proceso académico, ¿no es cierto?
+1:381 minuto y 38 segundosEh, tenemos el proceso eh de investigación, tenemos del proceso de vinculación con la sociedad. Sí. Eh, yo
+1:471 minuto y 47 segundospienso que estos son los procesos transversales que la la universidad trabaja, ¿no es cierto?
+1:531 minuto y 53 segundosdentro de estos procesos, obviamente hay procesos de apoyo, ya eh pienso que estos son procesos
+2:012 minutos y 1 segundomisionales. Acá deben haber procesos de apoyo, por ejemplo, los procesos financieros,
+2:082 minutos y 8 segundoshay los procesos administrativos, ¿sí me entienden?
+2:122 minutos y 12 segundosPero hay una situación, yo veo que a lo largo de los años esta esta organización
+2:182 minutos y 18 segundosde de aspectos va cambiando porque generalmente aquí, señores, en estos procesos,
+2:282 minutos y 28 segundosadivinen a quiénes les meten aquí, a los procesos informáticos o a los procesos de soft. Sí,
+2:362 minutos y 36 segundostenemos una dirección que da apoyo a precisamente a todos estos procesos.
+2:422 minutos y 42 segundosPero yo, señores, sigo creyendo que el rol que cumple la tecnología hoy en día en cualquier institución no es un
+2:502 minutos y 50 segundosproceso de apoyo, es un proceso transversal.
+2:552 minutos y 55 segundosY aquí, señores, realmente es donde nosotros donde nosotros eh entramos con un nivel de incidencia
+3:043 minutos y 4 segundosbastante importante dentro del ámbito laboral, no solo aquí en la universidad,
+3:103 minutos y 10 segundossino en varias instancias de de gestión de ya sea en el ámbito público y privado.
+3:173 minutos y 17 segundosEntonces, quiero que lo vean desde este sentido.
+3:203 minutos y 20 segundosActualmente hablamos desde el punto de vista de de administrativo, existen ciertas directrices para, por ejemplo,
+3:293 minutos y 29 segundosmencionar que se han tomado medidas de seguridad. Por ejemplo, ustedes saben,
+3:353 minutos y 35 segundoscogen datos, no sé quién está con ahí con chat que me alguien necesito alguien usted ya
+3:443 minutos y 44 segundosch póngale e desde cuánto, cuánto cuánto analizamos unos 10 años.
+3:533 minutos y 53 segundosYa, póngale más o menos eh desde el año 2016 sería hasta el 2026.
+4:024 minutos y 2 segundosDígale o ustedes también, los que están ahí en las computadas, pregúntale en el chat, por ejemplo, eh, cuánto se
+4:104 minutos y 10 segundosincrementado el nivel de inseguridad en el Ecuador. O sea, de manera general,
+4:154 minutos y 15 segundosdel 16 al 26. Vamos a analizar aquí 10 años.
+4:224 minutos y 22 segundosYa yo quiero que hagamos una línea de tiempo porque precisamente quiero partir desde la problemática.
+4:334 minutos y 33 segundosYa. ¿Cuánto dice más o menos en uno de los gruesos? Nivel de seguridad. Inseguridad, ¿cuánto se ha incrementado?
+4:454 minutos y 45 segundosCifras, ¿no? Valores. Sí.
+4:554 minutos y 55 segundosSolo para 777%. Exacto. Miren, señores,
+5:015 minutos y 1 segundonúmero bíblico en 10 años, señores. ¿Saben cuánto es esto? Es un valor exponencial.
+5:105 minutos y 10 segundos¿Ya estamos de acuerdo? Entonces, ¿esto qué es, señores, a nivel país? A nivel país,
+5:185 minutos y 18 segundos¿qué es esto? es una problemática y cómo se le está gestionando.
+5:235 minutos y 23 segundosObviamente no estamos en los organismos de control para poder tener una respuesta, ¿no es cierto? Pero lo que sí
+5:295 minutos y 29 segundostenemos son cifres, o sea, por cada delito que se sigue en el año 2016,
+5:365 minutos y 36 segundosahora existen cuántos? 777 delitos. Esa es una cifra real.
+5:465 minutos y 46 segundosEstamos y no voy a hablar.
+5:515 minutos y 51 segundos¿Qué pasa con la universidad? Vamos a hablar de la universidad. Entonces,
+5:555 minutos y 55 segundosdígame hasta el momento. Yo sé la universidad con qué medidas de seguridad cuenta. Por ejemplo,
+6:026 minutos y 2 segundosla guardia de las hay guardanía,
+6:066 minutos y 6 segundosya aquí hay guardanía, hay personas, ¿no es cierto? ¿Qué hacen estas personas, chicos?
+6:136 minutos y 13 segundosEh, rotan, vigilan. ¿En qué se apoya el sistema de guardanía, señores? Por que se soporta en un sistema de cámaras,
+6:236 minutos y 23 segundos¿no es cierto? ¿Verdad?
+6:266 minutos y 26 segundosEntonces, eh esto es un circuito cerrado, ¿no es cierto? Pero claro, este este circuito
+6:336 minutos y 33 segundosde cámaras está centralizado en una oficina donde están dos o tres personas vigilando tanto wachi como
+6:436 minutos y 43 segundosel centro, como el centro cultural, el centro de idiomas que queda más allá en el centro e que lo chaca.
+6:536 minutos y 53 segundosYa. Entonces, ahora sí la pregunta es,
+6:556 minutos y 55 segundos¿Seis ojos para todo ese número de cámaras?
+6:596 minutos y 59 segundoscomplicado. Ya. Entonces, señores, vemos que sí hay medidas, pero bueno, yo pienso que vamos a hacer ahora un
+7:077 minutos y 7 segundosejemplo. Supongamos yo vengo y me robo la recta del señor González y me voy corriendo.
+7:167 minutos y 16 segundosPregunta,
+7:197 minutos y 19 segundos¿cómo alertamos de página de reportes de reportes?
+7:287 minutos y 28 segundosSalviendo, ¿no es cierto? Él el choro ha sido campeón en los 100 m planos en las olimpiadas de la casa.
+7:397 minutos y 39 segundos¿Cuándo le cuándo le vamos a Salimos, le comenzamos a buscar. Los guardias van a decir, "A ver, ¿en dónde es que sido?" Ah, en el laboratorio.
+7:487 minutos y 48 segundosCogen la cámara, le identifican. ¿Y qué más?
+7:577 minutos y 57 segundosLastimosamente no tenemos más, ¿no es cierto? Sí.
+8:018 minutos y 1 segundoYa. A ver, yo yo voy yo voy a plantear un proyecto que no bueno, no tiene muchas interfaces,
+8:118 minutos y 11 segundosson funcionalidades muy muy claras,
+8:158 minutos y 15 segundospero yo pienso que es es una oportunidad para aprender un poquito más y más con el tema de salud y obviamente
+8:228 minutos y 22 segundoscomo el trabajo es en equipo, lo vamos a trabajar de una manera bastante, ¿ya? Estamos claros que hasta aquí, señores,
+8:298 minutos y 29 segundossi hay un robo,
+8:328 minutos y 32 segundosla los guardias obviamente podrán intentar seguir a ladrón, pero hasta que ellos identifiquen quién era, hasta que
+8:408 minutos y 40 segundosve la cámara y todo eso, el ladrón ya está con la regla del señor González abajo vendiendo la Simón Bolívar.
+8:498 minutos y 49 segundosYa. A ver, ¿qué vamos a hacer nosotros,
+8:538 minutos y 53 segundosseñores? Vamos a hacer un sistema que me permita gestionar estos incidentes de seguridad. Ya,
+9:059 minutos y 5 segundosyo voy a un poquito a ir hablando de memoria y luego le hacemos lo siguiado
+9:159 minutos y 15 segundospor dos partes principales. Una parte móvil,
+9:209 minutos y 20 segundoseh, esto para, ejemplo, en una parte móvil voy a tener para los usuarios
+9:289 minutos y 28 segundosnormales. ¿Cuáles son nuestros usuarios normales? No,
+9:339 minutos y 33 segundosacá voy a tener estudiantes, docentes,
+9:399 minutos y 39 segundospersonal administrativo. ¿Ya estamos de acuerdo? Sí, chicos.
+9:519 minutos y 51 segundosSí,
+9:549 minutos y 54 segundosya vamos por ahí. Entonces, ¿cuál sería mi segundo grupo de personas?
+10:1210 minutos y 12 segundos¿Cuál sería, señores,
+10:1410 minutos y 14 segundosen el otro grupo? A ver, mi otro grupo van a ser los guardias. Ya,
+10:2310 minutos y 23 segundoslos guardias en este sentido van a ser las personas que van a estar a cargo, ¿no es cierto?
+10:3010 minutos y 30 segundosEn cambio de las eh también, ¿no es cierto? Eh, perdón, usuarios de seguridad, que en este caso van a ser
+10:3910 minutos y 39 segundoslos básicamente es la ficha móvil lo mismo,
+10:4510 minutos y 45 segundossino que acá vamos a ver cómo esto se organiza y y vamos a tener una parte
+10:5210 minutos y 52 segundosadministrativa que es básicamente donde vamos a manejar todos los aspectos de configuración.
+11:0211 minutos y 2 segundosYa, aquí vamos a dejar todos los atributos de configuración del del este.
+11:1011 minutos y 10 segundosSí,
+11:1311 minutos y 13 segundosestamos ya entonces eh vamos vamos a ir explicando más o menos qué es lo que debería pasar.
+11:2211 minutos y 22 segundosA ver, yo voy a tener aquí voy a empezar con la parte móvil del usuario normal. ¿Qué es lo que yo debería tener aquí,
+11:3011 minutos y 30 segundosseñores? Voy a equivar, voy a ponerle aquí. Esta va a ser la parte A, ¿no? En la parte A prácticamente lo que yo debería tener lo siguiente.
+11:4311 minutos y 43 segundosUna pantalla en mi móvil.
+11:4711 minutos y 47 segundosSí, una pantalla en mi móvil y de pronto, ¿no es cierto? Y se me ocurre aquí le voy a poner un botoncito.
+11:5711 minutos y 57 segundosYa, obviamente. A ver, abre.
+12:0112 minutos y 1 segundoPara poder llegar acá, yo tendría que tener una página deción,
+12:0812 minutos y 8 segundospodríamos modelar un proceso de importación de usuarios de mi servidor.
+12:1212 minutos y 12 segundos¿Me entender, porque si voy a trabajar con usuarios de la universidad, ¿qué tiene toda la cuenta de usuarios?
+12:1912 minutos y 19 segundosLa de TI. Puede ser que yo me modele un servicio, les pongo un ejemplo,
+12:2512 minutos y 25 segundoscualquiera donde yo para poder ingresar acá obviamente tenga, ¿no es cierto?
+12:3512 minutos y 35 segundosPero por ejemplo yo los usuarios me puedo simular traer uno de una base externa a través de un servicio y ahí
+12:4212 minutos y 42 segundosempezamos ya hablar de esto donde yo digo, a ver, ¿se acuerdan que ustedes para ingresar al sistema integrado
+12:5012 minutos y 50 segundostienen una sola cuenta? Sí. Para ingresar al sistema de notas tienen una sola cuenta. Para ingresar a las
+12:5712 minutos y 57 segundostutorías tienen una sola cuenta. Ya. La idea es que simulemos que nos vamos a conectar a este servicio y de este
+13:0413 minutos y 4 segundosservicio nos vamos a los datos y verificar que el proceso sea el mismo correo. ¿Estamos de acuerdo?
+13:1313 minutos y 13 segundospaso este proceso de autenticación y debería yo llegar a un lugar donde aquí me aparezco. Fernán Naranjo, docente,
+13:2213 minutos y 22 segundosque sea,
+13:2513 minutos y 25 segundosdatos míos pueden ser. Y aquí voy a tener el botoncito de alarta.
+13:3113 minutos y 31 segundosYa estamos. Entonces, para que esto, este botón se active, deberíamos presionar,
+13:4213 minutos y 42 segundospor ejemplo, 3 segundos. ¿Sí? Entonces, presiono el botón 3 segundos.
+13:5113 minutos y 51 segundosSí, presiono el botón 3 segundos y ¿qué debería pasar?
+13:5713 minutos y 57 segundosSupongamos le robo la regla al señor Gaz. Ahora el señor González, ¿qué va a hacer? Saca la aplicación, presiona 3 segundos, lanza el celular, ¿no?
+14:0814 minutos y 8 segundosPresiona la aplicación 3 segundos. ¿Y qué debería pasar? Acá me voy a ir. Esta es mi aplicación A, mi aplicación B y mi aplicación C.
+14:1914 minutos y 19 segundosEn la aplicación B, este es el módulo administrativo. Aquí vamos a tener,
+14:2514 minutos y 25 segundosno sé, aquí algunos menús, ¿no es cierto? Pero aquí, señores, en la parte central, ¿qué vamos a tener?
+14:3714 minutos y 37 segundosel mapa de la ya puede ser que lo trabajemos con Google Google Maps, con Mapbox,
+14:4714 minutos y 47 segundosahí tengo algunas alternativas. Pues supongamos que el mapa de la UTA de acá es este, ¿no? Hagámoslo así.
+14:5514 minutos y 55 segundosYa. A ver, hagámoslo así, mejor. Y aquí está la avenida de los chastos. Acá está la otra, la payamino.
+15:0315 minutos y 3 segundosEsta es la sale, ejemplo. Y esta es la dua. Ya estamos.
+15:1115 minutos y 11 segundosAhí está el mapa, ¿verdad? Si estamos de acuerdo.
+15:1815 minutos y 18 segundosYa. A ver, cuando yo presione,
+15:2215 minutos y 22 segundoscuando yo presione, ¿qué le vamos a hacer?
+15:2715 minutos y 27 segundosYa les voy a explicar esto también. Aquí hay una lógica adicional que por ejemplo si el señor González está en la UTA
+15:3615 minutos y 36 segundosle va le va a salir aquí ejen la notificación de que están pidiendo ayuda. Si me va a
+15:4515 minutos y 45 segundosentender como el señor González se registró, ¿no es cierto? ¿Estamos de acuerdo? ¿Qué puedo hacer acá? Se me
+15:5215 minutos y 52 segundosocurre en esta parte de acá me va a salir aquí, ejemplo, alerta.
+16:0016 minutosAcá, como el señor González, cuando digitó esto, puede ser que le demos una opción que diga eh motivo de la
+16:0816 minutos y 8 segundosemergencia, le damos un combo y a lo mejor él escogió robo. Sí,
+16:1516 minutos y 15 segundos¿no es cierto? Coge robo, hace el llamado. Acá le va a salir, ¿no es cierto? ¿Cuál es su nombre, hijo?
+16:2216 minutos y 22 segundosVladimir. Me va a salir aquí. Gonzálezí,
+16:3216 minutos y 32 segundosle sale en dónde se encuentra ahorita y le sale acá robo a entender la alarma de rock.
+16:4316 minutos y 43 segundos¿Estamos de acuerdo? ¿Qué debería pasar en los celulares de los guardias?
+16:4916 minutos y 49 segundosLo mismo sonaba como una lá.
+16:5116 minutos y 51 segundosLo mismo en el celular del guardia le tiene que salir acá una notificación,
+16:5816 minutos y 58 segundos¿no es cierto? Ahí le va a salir igual el mapa. Le va a salir aquí y le va a salir que esta emergencia está siendo llamado por quién?
+17:0917 minutos y 9 segundospor Vladimir González,
+17:1217 minutos y 12 segundosque es de la Fisei, porque se sabe que es alguno de ahí por motivo de Ya estamos de acuerdo.
+17:2417 minutos y 24 segundosSí.
+17:2617 minutos y 26 segundosSupongamos que tuvimos dos eventos simultáneos. Mientras estaban robando acá, a lo mejor se metió alguien que está, yo que sé, con una bomba.
+17:4017 minutos y 40 segundosYa. Entonces, ¿qué va a pasar? La persona que notifica, por ejemplo,
+17:4517 minutos y 45 segundospuede ser otro usuario, igual va a tener su celular,
+17:5017 minutos y 50 segundossus datos, el motivo y acaba decir que se oamos arma blanca,
+17:5717 minutos y 57 segundospor ejemplo. Digamos que alguien está con un cuchillo ahí amenazado,
+18:0218 minutos y 2 segundosbotón, disparo. ¿Y qué tendría que pasar acá, señores? Supongamos que eso está Hola, chicos. Esos están por administración.
+18:1318 minutos y 13 segundosSi me va a entender. Segundo evento. ¿Qué va a pasar? ¿Quién nos?
+18:2118 minutos y 21 segundosAndrea. Andrea García,
+18:2718 minutos y 27 segundosdigamos que es de la Facultad de Ciencias Administrativas y Arma Blanca.
+18:3518 minutos y 35 segundos¿Me entender? Ya. Sí, señores.
+18:4318 minutos y 43 segundosAhí está. Repito, ingresamos el sistema.
+18:4918 minutos y 49 segundosEl ingreso del sistema de los guardias va a diferir de esto.
+18:5318 minutos y 53 segundosEl usuario administrativo va a diferir de esto.
+18:5718 minutos y 57 segundosYa entramos sistema. Entonces, acá el usuario va a emitir el motivo del evento. En este caso, si es robo, robo si es esto,
+19:0819 minutos y 8 segundosesto. Ya. Ahora, ¿qué va a pasar con los guardias? Ya. Acá los guardias van a tener la potestad de hacer lo siguiente.
+19:2019 minutos y 20 segundosMe acerco al evento, ¿no es cierto? Me dice, "Oye, llega el señor González,
+19:2519 minutos y 25 segundos¿qué pasó?" la regla, pero ya recogieron a ya devolvió la regla. Tenga la persona se hizo caro, digamos, del guardia que recibió esta notificación.
+19:3719 minutos y 37 segundosEl guardia primero cuando les llega una notificación puede asumir,
+19:4519 minutos y 45 segundos¿no es cierto? Asumir la resolución o acercarse. Asumo la resolución, me acerco.
+19:5419 minutos y 54 segundos¿Estamos de acuerdo?
+19:5619 minutos y 56 segundosYo me yo me asumo. Entonces, yo ya sé acá que a lo mejor ya en la parte central yo notifico que yo me voy a acercar a este punto. Entonces, ¿qué
+20:0520 minutos y 5 segundospasa en este evento? Yo ya sé que aquí viene el guardia uno. Sí.
+20:1520 minutos y 15 segundosY puede un guardia, otro guardia acercarse. Claro, imagínense que sea algo medio delicado, no va a venir solo uno, puede venir dos o tres. Entonces,
+20:2220 minutos y 22 segundosellos van cogiendo y acá nos van diciendo cuántos guardias eh podrían venir ya, pero siempre y cuando el de la aplicación lo tifique.
+20:3220 minutos y 32 segundosEstamos yaamos.
+20:3520 minutos y 35 segundosSegunda cosa, eh lo mismo acá, si el guardia, otro guardia asume irse a esta parte de
+20:4320 minutos y 43 segundosadministración y toma el requerimiento y se acerca. Entonces, ¿qué sería lo importante?
+20:5020 minutos y 50 segundosCuando cuando se acepte el guardia y toman esto, ¿quién debería cerrar los casos?
+20:5920 minutos y 59 segundosDebería cerrarlo el guardia, ¿no es cierto? Porque se supone que si esto va a trabajar de manera conjunta, debe
+21:0521 minutos y 5 segundoscenar el caso es el vienen y dice, "Bueno, aquí hay un evento. Sí, a ver qué pasó. ¿Se
+21:1321 minutos y 13 segundossolucionó? ¿No se solucionó? ¿Se escapó el delincuente? Escalar investigación, alguna cosa. Ya. ¿Quién notifica eso?
+21:2121 minutos y 21 segundos¿Quién va a redactar a esos señores? Aquí el va a ordenar este motivo,
+21:2821 minutos y 28 segundos¿ya? Entonces él lo que va a hacer es este motivo lo ingresa y lo cierra.
+21:3321 minutos y 33 segundosCuando él cierra el caso, cuando el guardia por fin deja cerrado el caso,
+21:3821 minutos y 38 segundos¿qué va a aparecer? Los casos de qué desaparecen. Entonces si un motivo y
+21:4521 minutos y 45 segundosingreso puede venir acá y estos señores van a desaparecer
+21:5221 minutos y 52 segundosde lo del listado. Pero claro, todo eso ya me queda como está listo. Sí, señores.
+22:0122 minutos y 1 segundoarrancamos la aplicación, un evento,
+22:0422 minutos y 4 segundosnotifico, se notifica en el en este módulo administrativo que vamos a tener y vamos a tener acá también la
+22:1222 minutos y 12 segundosaplicación de los guardias, que es la misma aplicación, pero en cambio son los que van a recibir las notificaciones. Ya,
+22:1922 minutos y 19 segundos¿qué más va a pasar, señores? Vamos a mandar geor referenciado en dónde está ocurriendo esto. Ya les voy a explicar con qué tecnología no se asusta.
+22:2922 minutos y 29 segundosEh, esto va a llegar georferenciado.
+22:3122 minutos y 31 segundosVamos a tener un panel de notificaciones. Vamos a poder filtrar.
+22:3522 minutos y 35 segundos¿Qué tal que un día en un momento, si nos disparan 40? No voy a tener aquí 20 cosas para abajo,
+22:4322 minutos y 43 segundos¿no es cierto? Me va a tocar filtrar,
+22:4622 minutos y 46 segundos¿no es cierto? Seguir viendo quién se está haciendo cargo de esos puntos. Sí, estamos de acuerdo.
+22:5522 minutos y 55 segundosOkay, señores. Caso número uno.
+22:5722 minutos y 57 segundosEntonces, está claro lo que va a hacer el guardia. Va a va a revisar. Asume,
+23:0523 minutos y 5 segundosasume el guardia el proceso de revisión, ¿no? El guardia se acerca. ¿Qué pasó?
+23:1023 minutos y 10 segundos¿Pasó esto, qué ejemplo? Un caso de emergencia,
+23:1423 minutos y 14 segundosuna compañera se desmaya, ya supongamos un compañero se saca la chompa tenido un músculo y se desmaya de la emoción.
+23:2423 minutos y 24 segundosLlamamos, por ejemplo, puede ser que en este caso sea por tema de salud y tenemos que a lo mejor el guardia tiene
+23:3123 minutos y 31 segundosque venir para que él deriva y dame a los deles muy cierto, ¿no es cierto?
+23:3723 minutos y 37 segundosPero el guardia sirve es el que va a abrir y canalizar todas estas cosas. Sí, estamos class.
+23:4423 minutos y 44 segundosEstamos de acuerdo. Claro. Eh, va a ser todo a través de teléfono, perdón. Va a ser todo a través del teléfono.
+23:5223 minutos y 52 segundosA ver, móvil, móvil, administrativo,
+24:0024 minutoscomputador. Ya estamos. Ahora, si usted se fija,
+24:0824 minutos y 8 segundosesto es igual a esto. ¿Cuál es la diferencia? El renderizado. Tendré que renderizar esto para equipo y esto
+24:1724 minutos y 17 segundosrenderizar para que eso ya depende cómo lo hacemos. Sí, estamos. Ya vamos a lo siguiente.
+24:2624 minutos y 26 segundosEh, cosas importantes que debemos tomar en el desarrollo. A ver, primera cosa, vamos a generar, escúcheme,
+24:3524 minutos y 35 segundosvamos,
+24:3724 minutos y 37 segundosprimera cosa, hasta aquí no hay preguntas, está claro, esta es la dinámica de todas. A ver, vamos.
+24:4524 minutos y 45 segundosSi varios pueden asumir en en los casos,
+24:4924 minutos y 49 segundossi un guardia cierra tiene quearse automáticamente cerrarse a los demás, o sea, cuando ya cierra el caso,
+24:5524 minutos y 55 segundos¿no? No, o sea, puede asumir más de un guardia, o sea, digamos digamos un evento, yo que sé, se metió un ladrón ya
+25:0325 minutos y 3 segundosy hice un guardia eh, por ejemplo, por el este, oigan compañeros, cito que vengan a muchas personas más.
+25:1325 minutos y 13 segundosClaro. Uno dice, "Yo voy, otro, yo voy."
+25:1625 minutos y 16 segundosEntender, yo voy. Vienen cuatro ya. Entonces cuatro.
+25:2325 minutos y 23 segundosEntonces se no es al momento de cerrar el caso.
+25:2825 minutos y 28 segundosAh, cierra uno, cierra un dos. Se cierra para todos. El caso es uno. Ya.
+25:3525 minutos y 35 segundosAhora escuchen, escuchen una cosa. ¿Qué vamos a hacer? Aquí hay unas cosas. La primera cosa,
+25:4225 minutos y 42 segundosvamos a trabajar en zones a la universidad.
+25:5125 minutos y 51 segundosA ver, ¿cómo vamos a trabajar en zonas? Esculpen. A ver,
+25:5925 minutos y 59 segundosde esta parte también si no es bueno.
+26:0026 minutosAhí sí lo que les recomiendo, vayan que leer full full full full el tema de las apps con las que vayamos
+26:0826 minutos y 8 segundosa trabajar. Por ejemplo, si va a trabajar con las de Google Maps,
+26:1426 minutos y 14 segundosseñores. Esto es leer implementar. Si van a trabajar con las de Mapox, es leer
+26:2126 minutos y 21 segundosimplementar. Si van a trabajar con un sistema, por ejemplo, les recomiendo, alguien me dice, "No, pero es que ahorita
+26:2926 minutos y 29 segundospara hacer, por ejemplo, los temas de la API de Google, me pide una poner una tarjeta, pensar que no les va a pedir,
+26:3726 minutos y 37 segundosno les va a cobrar, pero es como todo servicio, no pone la tarjeta,
+26:4226 minutos y 42 segundoscuando llega a los 15,000 lecturas diarias, ahí sí le cobra, no vamos a hacer 15,000 diarios. ¿Sí me a entender?
+26:5026 minutos y 50 segundosA ver, otra opción para manejar el tema de los mapas. Trabaje con Open Street Map. Genera los mapas usted mismo en su y todo eso se programa con Postgress,
+27:0227 minutos y 2 segundosperdón, con Postgress, con PG y se puede programar con F.
+27:0727 minutos y 7 segundosSí. Ya depende de usted. Quiere hacerse el mapa desde cero bonito, usted mismo haciendo como un
+27:1527 minutos y 15 segundoscroquis del mapa de la esta, utilizando posis, utilizando utilizando eh Python,
+27:2327 minutos y 23 segundoslo puede hacer, ¿no? Ahí sí ya depende la investigación.
+27:2727 minutos y 27 segundosPero, ¿qué vamos a hacer acá en las zonas? Nosotros, señores, vamos a cogiendo. Acuérdense que la universidad,
+27:3227 minutos y 32 segundosal menos acá en Huache, es así, ¿no es cierto? Algo así es la universidad. Ya.
+27:3727 minutos y 37 segundosEntonces, ¿cómo están organizados los guardias?
+27:4027 minutos y 40 segundosHay cuatro zonas. O sea, no me pregunten ahorita más o menos cómo está, ¿no? Pero yo sé que son cuatro. Entonces, ellos
+27:4827 minutos y 48 segundostienen la zona uno, zona dos, zona tres y zona cuatro, ¿ya? Y ellos están distribuidos por zonas, ¿ya?
+27:5927 minutos y 59 segundosEntonces, ¿por qué es importante esto?
+28:0228 minutos y 2 segundosPorque si se da un evento aquí, ¿no es cierto? Si se da un evento aquí,
+28:1028 minutos y 10 segundos¿no es cierto?
+28:1228 minutos y 12 segundosCuando se ve el evento, ¿qué sería lo recomendable en la notificación?
+28:1828 minutos y 18 segundosZona un que me diga en qué zona está. Si me hago entender. Ahora, supóngase que ahorita están robando en el en el en la
+28:2828 minutos y 28 segundospiscina y yo estoy acá atrás en el en la guardería.
+28:3428 minutos y 34 segundosSi se da cuenta cuánto me tocaría cruzar este,
+28:3828 minutos y 38 segundospero si a mí me dice que el evento se está dando dentro de la zona uno, ah, ya sé dónde es la zona
+28:4628 minutos y 46 segundosuno. A lo mejor la zona uno, les pongo un ejemplo, es desde el ingreso de aquí de la S, todo lo que es arquitectura,
+28:5428 minutos y 54 segundostodo lo que es humanas, hasta el límite que empieza administración. Eso son.
+29:0029 minutosAh, y sí sé quiénes están en esa zona trabajando. Claro, ahí sí puedo saber. Son los compañeros guardias Ramírez,
+29:0729 minutos y 7 segundosLópez, Garcés, me voy a entender. Ya.
+29:1029 minutos y 10 segundosEntonces, sería bueno que nosotros delimitemos esto. Entonces, ¿qué se hace a nivel de mapa? Vamos a
+29:1929 minutos y 19 segundoshacer una cap donde vamos a debilitar zas. ¿Estamos de acuerdo? Sí.
+29:2829 minutos y 28 segundosPrimero, el tema de zonas para la parte de la universidad. Segunda cosa importante,
+29:3629 minutos y 36 segundosgrupos de confianza. Ya.
+29:4429 minutos y 44 segundos¿Cómo funcionan los grupos de confianza? Ejemplo,
+29:5129 minutos y 51 segundossupongamos que nosotros como curso, como curso nos organizamos
+29:5829 minutos y 58 segundosy decimos, "Bueno, un grupo de confianza va a ser el cuarto a de software, ¿ya?
+30:0530 minutos y 5 segundosPues nosotros creamos un grupo de confianza. Acá en la en la configuración vamos a tener un grupo de confianza y
+30:1330 minutos y 13 segundosnosotros vamos a pertenecer a uno o varios grupos, pero aquí, por ejemplo, vamos a pertenecer al grupo eh
+30:2130 minutos y 21 segundoscuarto a de sopa. Ya. A ver, ¿cuál es el objetivo de este grupo de confianza?
+30:3030 minutos y 30 segundosSupongamos que sale, ¿cuál es su apellido? ¿Dónde está? Acá a lañez,
+30:3830 minutos y 38 segundosseñorita Núñez. Ya, supongamos que la señorita Núñez está saliendo de la universidad, ¿ya?
+30:4630 minutos y 46 segundosY supongamos que la señorita Nez saliendo por la puerta de la salle a las 7 de la noche que todos nos despedimos,
+30:5330 minutos y 53 segundossupongamos que él intenta robar ya, pero antes de que esa persona lo haga, la señorita
+31:0231 minutos y 2 segundoses para la la ¿Cuál es la idea? Claro. Primero, ¿quiénes deben recibir la notificación?
+31:1031 minutos y 10 segundos¿Ya se acuerdan? ¿Quiénes reciben? Los guardas.
+31:1431 minutos y 14 segundosPero, ¿qué pasará si de pronto supongamos hasta que guardia coja revise
+31:2031 minutos y 20 segundosy eso, supongamos que eh la señorita Núñez tiene un grupo de confianza que se
+31:2831 minutos y 28 segundosllama cuarto a de software y quiénes van a estar en el grupo de confianza?
+31:3331 minutos y 33 segundosYa. Eso significa que aparte de que les llegue a los guardias la notificación, ¿a quiénes les debería llegar?
+31:4031 minutos y 40 segundosa todos ustedes. ¿Qué tal que por ahí a unos 10, 20 pasos estén toditos ustedes?
+31:4731 minutos y 47 segundosEl que le quiere rogar a la señorita Núñez es uno.
+31:5331 minutos y 53 segundosDebo entender, ¿no es cierto? Van chabravíos, ¿no es cierto? Voladora la nuca y le y le hacemos justicia indígena.
+32:0332 minutos y 3 segundosYa debo entender los los grupos de confianza para qué me sirven, porque si algo pasa, yo puedo decir, bueno, mi
+32:1132 minutos y 11 segundosgrupo de confianza es mi curso o mi grupo de confianza, a lo mejor es mi primo, mi otro primo que está en otro en
+32:1932 minutos y 19 segundosotra carrera. Si algo pasa, me gustaría que primero se queden ellos también de que está pasando algo. Sí, me hago entender. Podemos crear un grupo de
+32:2732 minutos y 27 segundosconfianza que aparte que cuando se dispare la notificación a los guardias también ellos puedan enterarse. Y claro,
+32:3532 minutos y 35 segundossi yo veo que mi prima, la señorita Núñez, chuta, me voy a preocupar, pues yo digo, no, lo está robando mi prima,
+32:4232 minutos y 42 segundossalgo corriendo, ¿no es cierto? Estamos de acuerdo. Sí, señores,
+32:4932 minutos y 49 segundosno se olviden, un usuario que ingresa se se autentifica, ¿verdad? ¿Y qué vamos a hacer acá? Llegamos a esta parte.
+32:5832 minutos y 58 segundosComienzo a disparar los requerimientos,
+33:0133 minutos y 1 segundo¿no es cierto? Comienzo a disparar requerimientos, notificaciones. Acá me comienzo a enterar y comienzo a encolar.
+33:0933 minutos y 9 segundosSi ya son muchos, puedo filtrar. ¿Qué más puedo hacer acá, señores?
+33:1433 minutos y 14 segundosAcuérdese, el guardia de seguridad puede asumir asumir, ¿no es cierto? Eh, las los los eventos puede haber uno más,
+33:2633 minutos y 26 segundospero ya cuando eso se dé uno de ellos puede cerrar el caso. Se cerraría, se cierra y de est aparece de acá. Y obviamente eso pasaría. ¿Qué?
+33:3733 minutos y 37 segundos¿Pasa qué? ¿Pasa qué, señores? Estadística.
+33:4133 minutos y 41 segundosA estística. Correcto. Estamos de acuerdo. Ahora, como la parte de seguridad a nivel de universidad está dividida en zonas, ¿qué vamos a hacer,
+33:5233 minutos y 52 segundoschicos? Nos vamos a dividir en zonas.
+33:5433 minutos y 54 segundos¿Quién me ayuda a hacer eso? La herramienta del mapa con el que vayan a trabajar. Sí,
+34:0134 minutos y 1 segundoestamos ya, señores. Está caro. Zonas, grupos de confianza.
+34:0734 minutos y 7 segundos¿Qué más nos está faltando aquí?
+34:1234 minutos y 12 segundosEh, los grupos de confianza pueden marcar también que están yendo en camino.
+34:1734 minutos y 17 segundosNo, no, no, no. El grupo de confianza solamente se entera.
+34:2134 minutos y 21 segundosSolo los guardias son los que asumen la responsabilidad del,
+34:2434 minutos y 24 segundoso sea, solo les atía con una pequeña notificación, ¿verdad?
+34:2734 minutos y 27 segundosNotificaciones. A ver, y aquí viene la parte clave. A ver, señores, ¿y cómo van a ser las notificaciones?
+34:3434 minutos y 34 segundosA ver, caso de éxito y caso de falta.
+34:3934 minutos y 39 segundosA ver. caso de falda. Vamos con el de falda primero. Ya. A ver, alguna vez, no con esto, alguna vez se planteó un
+34:4634 minutos y 46 segundosproyecto y alguien dijo, "Vamos a trabajar con esta famosa herramienta,
+34:5334 minutos y 53 segundoslinda, hermosa, bella, guapa y que se llama Firebase. ¿Ha escuchado
+35:0135 minutos y 1 segundoFire? Ya. Entonces, ojo, no trabaje con Firebas. Le voy a explicar por qué.
+35:0935 minutos y 9 segundosSeñor, ¿saben qué tan difícil es mandar una notificación punto a punto,
+35:1735 minutos y 17 segundoscompañeras?
+35:2135 minutos y 21 segundosEso, eso es como tomarse un cafecito con una empanada, señores. Facilito, pero tiene un pequeño problema.
+35:3035 minutos y 30 segundosusted llega a las 200 y ahí sí es pague
+35:3935 minutos y 39 segundospague por el uso del servicio y créan que mientras haga el proyecto va a necesitar más de 200.
+35:4835 minutos y 48 segundosYa, primera cosa, nada de par.
+35:5235 minutos y 52 segundos¿Con qué van a programar, señores? van a programar con web socket
+35:5935 minutos y 59 segundosya yoso de la de la vida web socket señor igual no se vaya a
+36:0736 minutos y 7 segundosasustar Web Socket es muy sencillo y lo que se va a sorprender del Web Socket señores, es que permite precisamente trabajar como lo estamos haciendo.
+36:1836 minutos y 18 segundosEl web socket dice, "Ah, evento", y el web socket a través del protocolo dispara. la notificación enía punto y usted lo único que le dice es, "Oye,
+36:2936 minutos y 29 segundos¿a quién me tiene que llegar? ¿Quién tiene que recibir?" Y cuando usted recibe la notificación, es más,
+36:3636 minutos y 36 segundoseh, sí se han dado cuenta, chicos,
+36:3936 minutos y 39 segundosejemplo, sí se han dado cuenta cuando usted tiene su celular y le llega una notificación de una de una plataforma,
+36:4636 minutos y 46 segundospor ejemplo, WhatsApp. ¿Qué pasa cuando le llega un mensaje de WhatsApp? ¿Qué pasa, Car?
+36:5336 minutos y 53 segundos¿Qué pasa? Si han visto que sale algo así y acá sale uno, dos, tres el
+37:0137 minutos y 1 segundoes el saben quién es este personifica
+37:0837 minutos y 8 segundosy el en este caso el el cliente de workshop, lo único que él va a hacer es, "Ah, tengo en cuela un mensaje".
+37:2037 minutos y 20 segundosy tengo y tengo ya componentes para esto, ya tiene, o sea, es un es un armado.
+37:2837 minutos y 28 segundosEntonces esos, señores, básicamente es el corazón de lo que tiene que hacer
+37:3437 minutos y 34 segundosesto, señores, necesito necesito mis usuarios que los vamos a importar,
+37:4237 minutos y 42 segundosvamos a simular que nos conectamos a la base base de datos del,
+37:4937 minutos y 49 segundos¿cómo se llama?, de la UT. Me voy a tener que autenticar, voy a tener que eh tener dos clientes,
+37:5737 minutos y 57 segundosen este caso, bueno, el cliente normal,
+38:0038 minutosque en este caso este este señor lo que hace es no mandar las notificaciones. Claro, él tendrá,
+38:0638 minutos y 6 segundoshágame acuerdo, algo del guardia que les tengo que decir. Él lo que va a hacer es mandar notificaciones, ver el historial de notificaciones y el estado, ¿no? Y en
+38:1538 minutos y 15 segundosel estado verá pues las observaciones que pó guardia. Sí, a lo mejor. eh se vino, se revisó, se hizo una inspección
+38:2338 minutos y 23 segundosy se da terminado debido a que él él se encontró en la regla o se recogió al a
+38:3038 minutos y 30 segundosla a la presunta persona responsable del evento, alguna cosa, ¿ya? Y él va a tener una estadística
+38:3838 minutos y 38 segundospersonal, pero ¿quién va a tener la estadística general? Acá. ¿Sí estamos de acuerdo, chicos? Ya,
+38:4838 minutos y 48 segundossolo una cosa dice antes de terminar.
+38:5138 minutos y 51 segundosMiren el tiempo acá, chicos. Los guardias y la aplicación del guardia,
+38:5638 minutos y 56 segundosellos van a tener aquí un check. Una opción de tener un check que va a ser disponible o no disponible. Sí, me hago
+39:0439 minutos y 4 segundosentender. Póngase un caso. Digamos que el día de hoy el guardia no trabajó y se da un evento a las 5 de la mañana,
+39:1539 minutos y 15 segundos¿sí me entienden?
+39:1739 minutos y 17 segundosy les comienza a sonar la alarma así como ahorita, porque algunos van a poner hasta con sonidito.
+39:2339 minutos y 23 segundos¿Qué va a decir el guardia? Ah, ¿por qué me suena eso si no estoy trabajando?
+39:2839 minutos y 28 segundosCierto, ya vamos a poner un check donde digamos estamos en servicio o no estamos en servicio. Le va a llegar notificaciones. Va a hacer todo, todo,
+39:3939 minutos y 39 segundostodo lo que pueda hacer el guardia siempre y cuando esté en servicio. Está en servicio, señores. Mucho no le va a llegar. Sí.
+39:4939 minutos y 49 segundosListo. Preguntas. ¿Cuántas personas?
+39:5239 minutos y 52 segundos¿Cuántas personas? A ver, vamos a trabajar. Somos 20.
+39:5739 minutos y 57 segundosSomos 25. Vamos a trabajar grupos de cuatro. Grupos de tres. Grupos de cuatro.

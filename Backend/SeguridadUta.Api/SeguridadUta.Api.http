@@ -1,0 +1,6 @@
+@SeguridadUta.Api_HostAddress = http://localhost:5019
+
+GET {{SeguridadUta.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
